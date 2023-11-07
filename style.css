@@ -1,0 +1,12 @@
+ .container {
+            display: flex;
+            justify-content: flex-end;
+          text-align:center;
+        }
+        .quadrado {
+          background-color: green;
+          color: white;
+          width: 100px;
+          height: 100px;
+          margin: 10px;
+      }
